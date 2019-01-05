@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmsFilter</string>
+    <string name="add_fromaddress_hint">请填写要屏蔽的号码</string>
+    <string name="btn_add">添加</string>
+    <string name="add_keyword_hint">请输入要屏蔽的关键字</string>
+    <string name="item_menu_add_fromaddress">添加屏蔽号码</string>
+    <string name="item_menu_add_keyword">添加屏蔽关键字</string>
+</resources>
